@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to cards related docker APIs "
+  contactDetails:
+    name: "Pankaj - Dev"
+    email: "pankaj@clover.com"
+  onCallSupport:
+    - (111) 222-3456
+    - (111) 222-7890

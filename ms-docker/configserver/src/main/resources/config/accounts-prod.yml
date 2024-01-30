@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to accounts related docker APIs "
+  contactDetails:
+    name: "Pankaj - Prod"
+    email: "{cipher}f83ac5a34ba5f4657ae8e863c063c1b69efb4d23d0c431eb134f8d1b3ed0823dee0a4b627d091455b4c6600353a3682c"
+  onCallSupport:
+    - (111) 222-3456
+    - (111) 222-7890
