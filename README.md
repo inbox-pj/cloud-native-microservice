@@ -4,7 +4,7 @@ POC on cloud-native, enterprise and production ready Microservices with Spring, 
 
 
 ## Component/tools used in the POC
-* Spring Cloud Configurations
+* Spring Cloud Configurations (using git, repo is maintained https://github.com/inbox-pj/cloud-native-microservice-config)
 * MySQL DBs along with Flyway Migration
 * Service Discovery & Service Registration using Eureka
 * Gateway, Routing & Cross cutting concerns using Spring Cloud Gateway
