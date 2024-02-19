@@ -2,6 +2,8 @@
 
 POC on cloud-native, enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
 
+<img width="1068" alt="image" src="https://github.com/inbox-pj/cloud-native-microservice/assets/53929164/df3a327b-88a5-414c-bfdd-039a137ff113">
+
 
 ## Component/tools used in the POC
 * Spring Cloud Configurations (using git, repo is maintained https://github.com/inbox-pj/cloud-native-microservice-config)
